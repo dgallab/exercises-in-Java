@@ -1,0 +1,1 @@
+A system for auctioning, selling, building, destroying, and paying for vehicles, built primarily within Java but also supplemented with a SQL file to keep track of data. Good source for analyzing and practicing object oriented programming concepts.
